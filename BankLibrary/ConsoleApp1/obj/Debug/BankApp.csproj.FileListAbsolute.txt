@@ -1,0 +1,10 @@
+F:\Программирование\BankLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Программирование\BankLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Программирование\BankLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Программирование\BankLibrary\ConsoleApp1\bin\Debug\BankLibrary.dll
+F:\Программирование\BankLibrary\ConsoleApp1\bin\Debug\BankLibrary.pdb
+F:\Программирование\BankLibrary\ConsoleApp1\obj\Debug\BankApp.csprojAssemblyReference.cache
+F:\Программирование\BankLibrary\ConsoleApp1\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+F:\Программирование\BankLibrary\ConsoleApp1\obj\Debug\BankApp.csproj.CopyComplete
+F:\Программирование\BankLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Программирование\BankLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
