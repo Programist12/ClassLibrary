@@ -1,0 +1,10 @@
+F:\repos\Epam2\BinaryTree2\BinaryTreeEpam\bin\Debug\BinaryTreeEpam.exe.config
+F:\repos\Epam2\BinaryTree2\BinaryTreeEpam\bin\Debug\BinaryTreeEpam.exe
+F:\repos\Epam2\BinaryTree2\BinaryTreeEpam\bin\Debug\BinaryTreeEpam.pdb
+F:\repos\Epam2\BinaryTree2\BinaryTreeEpam\obj\Debug\BinaryTreeEpam.csprojAssemblyReference.cache
+F:\repos\Epam2\BinaryTree2\BinaryTreeEpam\obj\Debug\BinaryTreeEpam.csproj.CoreCompileInputs.cache
+F:\repos\Epam2\BinaryTree2\BinaryTreeEpam\obj\Debug\BinaryTreeEpam.exe
+F:\repos\Epam2\BinaryTree2\BinaryTreeEpam\obj\Debug\BinaryTreeEpam.pdb
+F:\repos\Epam2\BinaryTree2\BinaryTreeEpam\bin\Debug\BinaryTree2.dll
+F:\repos\Epam2\BinaryTree2\BinaryTreeEpam\bin\Debug\BinaryTree2.pdb
+F:\repos\Epam2\BinaryTree2\BinaryTreeEpam\obj\Debug\BinaryTreeEpam.csproj.CopyComplete

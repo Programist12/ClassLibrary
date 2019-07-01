@@ -1,0 +1,6 @@
+F:\repos\Epam2\BinaryTree2\BinaryTree2\obj\Debug\BinaryTree2.csprojAssemblyReference.cache
+F:\repos\Epam2\BinaryTree2\BinaryTree2\obj\Debug\BinaryTree2.csproj.CoreCompileInputs.cache
+F:\repos\Epam2\BinaryTree2\BinaryTree2\bin\Debug\BinaryTree2.dll
+F:\repos\Epam2\BinaryTree2\BinaryTree2\bin\Debug\BinaryTree2.pdb
+F:\repos\Epam2\BinaryTree2\BinaryTree2\obj\Debug\BinaryTree2.dll
+F:\repos\Epam2\BinaryTree2\BinaryTree2\obj\Debug\BinaryTree2.pdb
